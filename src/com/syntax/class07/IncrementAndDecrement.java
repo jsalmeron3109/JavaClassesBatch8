@@ -14,7 +14,7 @@ public class IncrementAndDecrement {
 		//will only add or subtract 1 (no other value)
 		
 		//Loops -> help execute same code and avoid repetitive code
-		//types of loop: while loop, do while loop, for lopp, enhanced loop
+		//types of loop: while loop, do while loop, for loop, enhanced loop
 		
 	
 	

@@ -26,7 +26,7 @@ public class WhileLoopsExamples {
 				day++;
 			}
 			while (day==6) {
-				System.out.println("I don't need a day off anymore");
+				System.out.println("I don't need a day off, It is weekend");
 				break;
 			}
 		}
