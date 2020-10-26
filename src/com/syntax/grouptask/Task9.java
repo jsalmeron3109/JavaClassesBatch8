@@ -7,20 +7,22 @@ public class Task9 {
 		//Then print all values from that array using 2 different loops 
 		//calculate how many total countries been stored.
 		
-		
 		String [][] countries= {
-				{"USA","Canada","Mexico"},
+				{"USA","Canada","Mexico","Costa Rica"},
 				{"Brazil","Colombia","Argentina"},
 				{"France", "Greece","Italy"},	
 				{"Thailand","China","Vietnam"},
 				{"Nigeria","Egypt","Ethiopia"}
 				
 				};
+		
+		int total=0;
 		for(String[] country:countries) {
 			for(String countryNames:country) {
 				System.out.print(countryNames+" ");
+				total++;//prints total elements
 			}
-			System.out.println();
+			 System.out.println("Total countries stored = "+total);
 		}
 			
 		for(int i=0;i<countries.length;i++) {
@@ -31,13 +33,12 @@ public class Task9 {
 			System.out.println();
 		}
 		
-	int sum=countries.length;
-	int columns=countries[0].length;
 	
-     System.out.println("Total countries stored = "+(columns*sum));
-		
-		}
+
 	}
+
+		}
+	
 		
 			
 		
