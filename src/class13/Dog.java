@@ -7,15 +7,18 @@ public class Dog {
     String color;
     int age;
     String size;
-//print behaviors for Dog:
+    private Object args;
+
+    //print behaviors for Dog:
     void bark(){
         System.out.println("Dog barks");
     }
     void play(){
         System.out.println("Dog plays fetch");
     }
-    void sit(){
+    void sit() {
         System.out.println("Dog sits");
+
 
     }
 }
