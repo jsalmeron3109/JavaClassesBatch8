@@ -1,4 +1,4 @@
-package class15;
+package src.class15;
 
 public class Split {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Split {
         String[]array=name.split(" ");
         for(String name1:array
         ){
-        System.out.println(name1);
+        System.out.print(name1);
         }
     }
 }

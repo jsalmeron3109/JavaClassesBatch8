@@ -1,4 +1,4 @@
-package class21;
+package src.class21;
 
 public class ChildSuperClass extends ParentSuperClass{
     ChildSuperClass(int money){

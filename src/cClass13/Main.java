@@ -1,4 +1,4 @@
-package class13;
+package src.cClass13;
 
 public class Main {
     public static void main(String[] args) {

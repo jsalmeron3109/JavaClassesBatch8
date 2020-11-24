@@ -1,4 +1,4 @@
-package class17;
+package src.class17;
 
 public class Task2 {
     //write a method to return whether given number is prime or not, what is prime number?

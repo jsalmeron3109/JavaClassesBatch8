@@ -1,4 +1,4 @@
-package class21;
+package src.class21;
 
 public class TeacherTester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package class15;
+package src.class15;
 
 public class ReplaceAll {
     public static void main(String[] args) {

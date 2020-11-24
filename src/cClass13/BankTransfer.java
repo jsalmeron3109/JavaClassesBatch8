@@ -1,4 +1,4 @@
-package class13;
+package src.cClass13;
 
 public class BankTransfer {
     public static void main(String[] args) {

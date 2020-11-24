@@ -1,4 +1,4 @@
-package class21;
+package src.class21;
 
 public class Child extends Father{//inherited from Father class which inherited from grandfather class
     public static void main(String[] args) {

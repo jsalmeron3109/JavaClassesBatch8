@@ -1,4 +1,4 @@
-package class20;
+package src.class20;
 
 public class Book {
     String title;
