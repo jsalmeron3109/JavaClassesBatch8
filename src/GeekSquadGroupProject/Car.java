@@ -1,4 +1,4 @@
-package src.goupProject;
+package src.GeekSquadGroupProject;
 
 public interface Car {
     double carPrice = 0;

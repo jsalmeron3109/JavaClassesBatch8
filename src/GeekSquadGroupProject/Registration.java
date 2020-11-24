@@ -1,4 +1,4 @@
-package src.goupProject;
+package src.GeekSquadGroupProject;
 
 public class Registration {
     String email;

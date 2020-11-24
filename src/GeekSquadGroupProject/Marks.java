@@ -1,4 +1,4 @@
-package src.goupProject;
+package src.GeekSquadGroupProject;
 
 //have to calculate the average of marks obtained in three subjects by student A and by student B.
 // Create class'Marks'with an abstract method 'getPercentage' that will be returning the average percentage of marks.
